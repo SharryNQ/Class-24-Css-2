@@ -1,0 +1,47 @@
+body{
+
+    background-image:url(../Assets/mike-cox-fTla0stGS5I-unsplash.jpg);
+    
+    pointer-events: auto !important;
+   background-size: 100% !important;
+   opacity: 0.90 !important;
+   background-position: 0 0 !important;
+   /**change your image url here*/
+   content: '';
+   position: absolute;;
+   z-index: 999;
+   width: 100%;
+   background-repeat: no-repeat;
+    
+}
+
+.a{
+    background-color: antiquewhite;
+    color: rgb(155, 22, 22);
+    width: 30%;
+} 
+.b{
+    background-color: antiquewhite;
+    color: rgb(155, 22, 22);
+    width: 30%;
+} 
+.c{
+    background-color: antiquewhite;
+    color: rgb(155, 22, 22);
+    width: 30%;
+} 
+.d{
+    background-color: antiquewhite;
+    color: rgb(155, 22, 22);
+    width: 30%;
+} 
+.e{
+    background-color: antiquewhite;
+    color: rgb(155, 22, 22);
+    width: 30%;
+} 
+.f{
+    background-color: antiquewhite;
+    color: rgb(155, 22, 22);
+    width: 30%;
+} 
